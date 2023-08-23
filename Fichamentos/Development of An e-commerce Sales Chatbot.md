@@ -17,7 +17,16 @@ Na conclusão, os autores ressaltam o impacto positivo do chatbot nas vendas, re
 * 
 ## 3. Fichamento de Citações 
 
-* _"Mishu, S. Z., & Rafiuddin, S. M. (2016, December). Performance analysis of supervised machine learning algorithms for text classification. In Computer and Information Technology (ICCIT), 2016 19th International conference on (pp. 409-413). IEEE. "_
-* _""_
-* _""_
-* _""_
+* _" This project may help improve the relationship with 
+customers which can lead to more sales."_
+* _" Along with revolutionizing the retail industry this 
+industry has many positive impacts on both the business and 
+on consumers on a personal level."_
+* _"The platform can 
+be made available to word press based system because 60% ecommerce websites are powered by woo commerce which is a 
+word press plugin."_
+* _"Perks include having a greater choice of goods available to 
+them at much lower prices than they would pay in a local store 
+due to the fact that they can shop anywhere in the world and 
+take advantage of currency exchange rates and economic 
+differences throughout the world."_
