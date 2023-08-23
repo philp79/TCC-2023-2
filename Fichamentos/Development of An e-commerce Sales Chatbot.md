@@ -17,7 +17,7 @@ Na conclusão, os autores ressaltam o impacto positivo do chatbot nas vendas, re
 * 
 ## 3. Fichamento de Citações 
 
-* _""_
+* _"Mishu, S. Z., & Rafiuddin, S. M. (2016, December). Performance analysis of supervised machine learning algorithms for text classification. In Computer and Information Technology (ICCIT), 2016 19th International conference on (pp. 409-413). IEEE. "_
 * _""_
 * _""_
 * _""_
