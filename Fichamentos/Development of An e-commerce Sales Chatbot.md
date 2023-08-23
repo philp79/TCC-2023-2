@@ -11,10 +11,10 @@ Os principais pontos incluem a descrição da estrutura do chatbot, treinamento 
 Na conclusão, os autores ressaltam o impacto positivo do chatbot nas vendas, redução de carga de trabalho da equipe e melhoria na satisfação do cliente. A pesquisa evidencia o potencial contínuo de desenvolvimento de chatbots para otimizar as operações de e-commerce e fortalecer o envolvimento com o cliente, indicando um caminho promissor para futuras aplicações no setor.
 
 ## 2. Fichamento Bibliográfico 
-
-* 
-* 
-* 
+* Chatbot robô que realiza o contato direto com o cliente
+* NLP/NLU entendimento e processamento da linguagem humana entendendo o contexto, imitando a interação com um humano real
+* E-commerce significa permitir a compra de produtos online
+  
 ## 3. Fichamento de Citações 
 
 * _" This project may help improve the relationship with 
