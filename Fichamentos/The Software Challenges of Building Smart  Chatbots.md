@@ -4,7 +4,7 @@ G. Daniel and J. Cabot, "The Software Challenges of Building Smart Chatbots," 20
 
 ## 1. Fichamento de Conteúdo
 
-O artigo "The Software Challenges of Building Smart Chatbots: Software Qualities" aborda os desafios na construção de chatbots inteligentes. Inicia ressaltando a crescente importância dos chatbots e sua aplicação em diversos setores. Aborda, então, desafios como compreensão contextual, interação natural e personalização. Destaca a importância da qualidade do software para garantir experiências positivas, mencionando testes rigorosos, manutenção e atualizações contínuas. Conclui enfatizando que chatbots eficazes requerem um equilíbrio entre tecnologia avançada e aspectos de usabilidade, e destaca a necessidade de abordagens iterativas e colaborativas para alcançar resultados de alta qualidade na construção de chatbots inteligentes.
+O artigo "The Software Challenges of Building Smart Chatbots: Software Qualities" aborda os desafios no desenvolvimento de chatbots inteligentes. A introdução destaca a crescente importância dos chatbots e a necessidade de qualidade de software para garantir interações eficazes. Os principais pontos incluem a complexidade de compreender a intenção do usuário, a importância da adaptação contextual e a necessidade de manter um equilíbrio entre respostas automáticas e intervenção humana. Além disso, a discussão sobre a qualidade do software ressalta a importância da escalabilidade, confiabilidade, segurança e atualizações contínuas. A conclusão destaca a necessidade de abordagens colaborativas entre equipes de desenvolvimento, designers de interação e especialistas em IA para superar esses desafios e criar chatbots verdadeiramente inteligentes e eficazes.
 
 ## 2. Fichamento Bibliográfico 
 
