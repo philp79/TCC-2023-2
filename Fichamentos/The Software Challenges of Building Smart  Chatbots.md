@@ -10,12 +10,20 @@ A discussão sobre as qualidades do software ressalta elementos fundamentais, co
 
 ## 2. Fichamento Bibliográfico 
 
-* 
-* 
-* 
+* Chatbots (Chats com robos) é um programa de computador que tenta simular um ser humano na conversação com as pessoas.
+* software engineering techniques (tecnicas de engenharia de software) metodos de como realizar o desenvolvimento de uma aplicação
+* AI-based natural language (linguagem natural realizada por inteligência artificial) AI-based natural language é um ramo da inteligência artificial que permite aos computadores compreender, gerar e manipular a linguagem humana.
+  
 ## 3. Fichamento de Citações 
 
-* _""_
-* _""_
-* _""_
-* _""_
+* _"This widespread interest and demand for chatbot applications has emphasized the need to be able to quickly build complex chatbot applications supporting AI-based natural language
+processing [4] in order to be able to fluently chat with the
+user"_
+* _"As such, chatbots are becoming complex software artifacts
+that require a high-level of expertise in a variety of technical
+domains, ranging from natural language processing to a deep
+understanding of the APIs of the targeted instant messaging
+platforms and third-party services to be integrated."_
+* _"Secondly, because as a complex artefact in itself, there
+is plenty of software engineering techniques that could be
+applied to improve chatbots development2."_
